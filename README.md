@@ -4,8 +4,8 @@
 </em></p>
 
 [![Twitter: andreluistosato](https://img.shields.io/twitter/follow/andreluistosato?style=social)](https://twitter.com/andreluistosato)
+[![GitHub andreluistosato](https://img.shields.io/github/followers/andreluistosato?label=follow&style=social)](https://github.com/andreluistosato)
 [![Linkedin: andreluistosato](https://img.shields.io/badge/-andreluistosato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreluistosato/)](https://www.linkedin.com/in/andreluistosato/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/andreluistosato?label=follow&style=social)](https://github.com/andreluistosato)
 
 
 ### A little more about me...  
