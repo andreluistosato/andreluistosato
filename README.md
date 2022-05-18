@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> Hi, I'm André Tosato!</h2>
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="375">
+<p><em>Software Enginner at <a href="[https://ciandt.com/)">CI&T</a>
+</em></p>
 
-<!--
-**andreluistosato/andreluistosato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: andreluistosato](https://img.shields.io/twitter/follow/andreluistosato?style=social)](https://twitter.com/andreluistosato)
+[![Linkedin: andreluistosato](https://img.shields.io/badge/-andreluistosato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreluistosato/)](https://www.linkedin.com/in/andreluistosato/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/andreluistosato?label=follow&style=social)](https://github.com/andreluistosato)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...  
+
+```javascript
+const andre = {
+  code: ['Java', 'Javascript', 'Typescript', '.NET'],
+  tools: ['Docker', 'Node', 'Redis'],
+  databases: ['Oracle', 'MSSQL', 'PostgreSQL', 'Mongo', 'Cassandra'],
+  Cloud: ['AWS Services']
+}
+```
