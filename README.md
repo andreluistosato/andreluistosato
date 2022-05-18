@@ -18,6 +18,7 @@ const andre = {
     'Oracle', 'MSSQL', 'PostgreSQL', 
     'Dynamo', 'Mongo', 'Cassandra'
   ],
-  Cloud: ['AWS Services']
+  Cloud: ['AWS Services'],
+  IaC: ['AWS CDK']
 }
 ```
