@@ -14,7 +14,10 @@
 const andre = {
   code: ['Java', 'Javascript', 'Typescript', '.NET'],
   tools: ['Docker', 'Node', 'Redis'],
-  databases: ['Oracle', 'MSSQL', 'PostgreSQL', 'Mongo', 'Cassandra'],
+  databases: [
+    'Oracle', 'MSSQL', 'PostgreSQL', 
+    'Dynamo', 'Mongo', 'Cassandra'
+  ],
   Cloud: ['AWS Services']
 }
 ```
