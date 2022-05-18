@@ -1,5 +1,5 @@
 <h2> Hi, I'm André Tosato!</h2>
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="455">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="435">
 <p><em>Software Enginner at <a href="[https://ciandt.com/)">CI&T</a>
 </em></p>
 
