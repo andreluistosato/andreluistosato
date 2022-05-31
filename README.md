@@ -1,5 +1,4 @@
 <h2> Hi, I'm André Tosato!</h2>
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="560">
 
 [![Twitter: andreluistosato](https://img.shields.io/twitter/follow/andreluistosato?style=social)](https://twitter.com/andreluistosato)
 [![GitHub andreluistosato](https://img.shields.io/github/followers/andreluistosato?label=follow&style=social)](https://github.com/andreluistosato)
@@ -12,17 +11,11 @@
 
 ```javascript
 const andre = {
-  code: [
-    'Java', 'Javascript', 
-    'Typescript', '.NET'
-  ],
-  tools: ['Docker', 'Node', 'Redis'],
-  dbs: [
-    'Oracle', 'MSSQL', 'PostgreSQL', 
-    'Dynamo', 'Mongo', 'Cassandra'
-  ],
-  Cloud: ['AWS Services'],
-  IaC: ['AWS CDK']
+  code: [ 'Java', 'Javascript', 'Typescript', '.NET' ],
+  tools: ['Docker', 'Node', 'Redis' ],
+  dbs: [ 'Oracle', 'MSSQL', 'PostgreSQL', 'Dynamo', 'Mongo', 'Cassandra' ],
+  Cloud: [ 'AWS Services' ],
+  IaC: [ 'AWS CDK' ]
 }
 ```
 
