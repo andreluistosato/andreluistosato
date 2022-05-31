@@ -1,5 +1,5 @@
 <h2> Hi, I'm André Tosato!</h2>
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="390">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480">
 
 [![Twitter: andreluistosato](https://img.shields.io/twitter/follow/andreluistosato?style=social)](https://twitter.com/andreluistosato)
 [![GitHub andreluistosato](https://img.shields.io/github/followers/andreluistosato?label=follow&style=social)](https://github.com/andreluistosato)
@@ -23,7 +23,7 @@ const andre = {
 }
 ```
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/andreluistosato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluistosato&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluistosato&layout=compact&langs_count=7&theme=chartreuse-dark"/>
