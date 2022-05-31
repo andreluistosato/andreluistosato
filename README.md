@@ -12,7 +12,10 @@
 
 ```javascript
 const andre = {
-  code: ['Java', 'Javascript', 'Typescript', '.NET'],
+  code: [
+    'Java', 'Javascript', 'Typescript', 
+    '.NET'
+  ],
   tools: ['Docker', 'Node', 'Redis'],
   dbs: [
     'Oracle', 'MSSQL', 'PostgreSQL', 
