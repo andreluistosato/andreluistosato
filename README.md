@@ -1,5 +1,7 @@
 <h2> Hi, I'm André Tosato!</h2>
 
+<a align="right" href="https://app.daily.dev/andreluistosato"><img src="https://api.daily.dev/devcards/0263949db5584ed89189379fc84cba2f.png?r=ez8" width="400" alt="André Luis Tosato da Cruz's Dev Card"/></a>
+
 [![Twitter: andreluistosato](https://img.shields.io/twitter/follow/andreluistosato?style=social)](https://twitter.com/andreluistosato)
 [![GitHub andreluistosato](https://img.shields.io/github/followers/andreluistosato?label=follow&style=social)](https://github.com/andreluistosato)
 [![Linkedin: andreluistosato](https://img.shields.io/badge/-andreluistosato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreluistosato/)](https://www.linkedin.com/in/andreluistosato/)
@@ -24,3 +26,5 @@ const andre = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluistosato&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluistosato&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+
+[![@andreluistosato's Holopin board](https://holopin.io/api/user/board?user=andreluistosato)](https://holopin.io/@andreluistosato)
