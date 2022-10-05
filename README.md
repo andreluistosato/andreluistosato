@@ -13,14 +13,8 @@
       alt="LinkedIn"
     />
   </a>
-
-  <a href="https://api.daily.dev/get?r=andreluistosato" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/0263949db5584ed89189379fc84cba2f.png?r=vwx"
-    />
-  </a>
+  
+  <a href="https://app.daily.dev/andreluistosato"><img align="right" src="https://api.daily.dev/devcards/0263949db5584ed89189379fc84cba2f.png?r=bvn" width="400" alt="André Luis Tosato da Cruz's Dev Card"/></a>
 </div>
 
 ## I'm André Tosato
